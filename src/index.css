@@ -1,9 +1,7 @@
-@import url('https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/css/rawline.css');
-@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
-
+@import url("https://cdn.rawgit.com/h-ibaldo/Raleway_Fixed_Numerals/master/css/rawline.css");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
 html {
-  font-size: 100%;
-}
+  font-size: 100%; }
 
 body {
   margin: 0;
@@ -11,13 +9,10 @@ body {
   font-family: "Rawline";
   font-size: 1rem;
   line-height: 1.5;
-  padding: 50px;
-}
+  padding: 50px; }
 
 button:disabled {
-  opacity: 0.5;
-}
+  opacity: 0.5; }
 
 a, button {
-  margin: 5px;
-}
+  margin: 5px; }

@@ -4,7 +4,7 @@ import Home from '../../containers/homeContainer'
 import About from '../about'
 
 const App = () => (
-  <div>
+  <div className="App--root">
     <header>
       <Link to="/">Home</Link>
       <Link to="/about-us">About</Link>
