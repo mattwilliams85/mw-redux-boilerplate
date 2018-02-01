@@ -5,9 +5,9 @@ This boilerplate is built using [create-react-app] then customized for personal 
 #### Features
 
 * Redux
-* React-Router v4 
+* React-Router v5 
 * Thunk
-* Hotloading
+* Hotloading for JS/SCSS
 * PropTypes
 * ES-Lint (Standard JS)
 
